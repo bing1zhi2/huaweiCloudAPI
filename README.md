@@ -58,8 +58,7 @@ image.base.SuperResolutionUtil
 
 
 #效果
-[这里][1]
-[1] https://mp.csdn.net/postedit/87936375 "这里"
+[效果展示](https://mp.csdn.net/postedit/87936375)
 
 # 依赖包：
 maven:
