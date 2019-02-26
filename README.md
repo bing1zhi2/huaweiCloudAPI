@@ -3,6 +3,7 @@ HuaWei  API   demo  ,  image enhence
 
 # 使用方法
 引用 ais-java-client.jar 和 java-sdk-core .jar
+修改ClientContextUtils 中配置的密钥
 
 ### 华为官方网站:  https://support.huaweicloud.com/api-image/image_03_0018.html
 ## 光照增強
