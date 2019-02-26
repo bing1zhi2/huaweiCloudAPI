@@ -100,8 +100,9 @@ maven:
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
-            <version>2.9.5</version>
+            <version>[2.9.8,)</version>
         </dependency>
+
 
 
         <dependency>
