@@ -6,6 +6,7 @@ HuaWei  API   demo  ,  image enhence
 修改ClientContextUtils 中配置的密钥
 
 ### 华为官方网站:  https://support.huaweicloud.com/api-image/image_03_0018.html
+
 ## 光照增強
 image.base.DKEnhanceUtil
 
@@ -56,7 +57,9 @@ image.base.SuperResolutionUtil
 
 
 
-
+#效果
+[这里][1]
+[1] https://mp.csdn.net/postedit/87936375 "这里"
 
 # 依赖包：
 maven:
