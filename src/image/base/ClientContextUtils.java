@@ -10,8 +10,8 @@ public class ClientContextUtils {
     private static final AuthInfo HEC_AUTH = new AuthInfo(
             "https://image.cn-north-1.myhuaweicloud.com",
             "cn-north-1",
-            "WNUYXD1EFMNAW0RZL25V",
-            "EedmFTLdyRJmdXrSnCPnFdhnfurE3wgO2ZHDLub9");
+            "xxxx",
+            "xxxx");
 
     public static AuthInfo getAuthInfo() {
         return HEC_AUTH;
