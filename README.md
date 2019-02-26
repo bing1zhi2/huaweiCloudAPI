@@ -2,7 +2,7 @@
 HuaWei  API   demo  ,  image enhence
 
 # 使用方法
-光照增強
+## 光照增強
 image.base.DKEnhanceUtil
 
 
@@ -30,7 +30,7 @@ image.base.DKEnhanceUtil
    enhance.doImageEnhence("F:\\work\\project\\imageSuperResolution\\darkenhance\\dark.jpg");
 
 
-#去雾
+## 去雾
 image.base.DeFogEnhanceUtil
 
 
@@ -41,7 +41,7 @@ image.base.DeFogEnhanceUtil
    enhance.doImageEnhence("F:\\work\\project\\imageSuperResolution\\defog\\defog2.jpg");
 
 
-# 图像超分辨率
+## 图像超分辨率
 image.base.SuperResolutionUtil
 
     #eg:
